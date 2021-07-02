@@ -12,7 +12,7 @@ _To have in mind:_
 
 `node app.js <path-to-file>`
 
-## Usage Examples (Should be capable of receiveing relative and absolute paths):
+## Usage Examples (Should be capable of receiving relative and absolute paths):
 
 ```node app.js products.json```
 
