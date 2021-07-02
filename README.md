@@ -1,4 +1,4 @@
-# Node.js Challenge
+# Node.js (Challenge Phase 1)
 
 Create an Node.js app capable of reading a `JSON` file to then output specific information about the data input:
 - Total price amount
@@ -42,3 +42,5 @@ Food 35.00
 Electronics 838.36
 Plants 60.50
 ```
+
+## Create the project using Github
