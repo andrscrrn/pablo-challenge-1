@@ -4,6 +4,10 @@ Create an Node.js app capable of reading a `JSON` file to then output specific i
 - Total price amount
 - List of categories with the sum of prices for each category
 
+To have in mind:
+- _Create the project using a Github repository_
+- Use ES Modules in Node
+
 ## CLI Interface:
 
 `node app.js <path-to-file>`
@@ -42,5 +46,3 @@ Food 35.00
 Electronics 838.36
 Plants 60.50
 ```
-
-## Create the project using Github
